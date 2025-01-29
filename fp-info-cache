@@ -1,4 +1,4 @@
-23678764707594293
+23680566954707568
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90541,6 +90541,13 @@ Sensor_Voltage
 LEM_LV25-P
 LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf
 LEM Hall Effect Voltage transducer
+0
+5
+5
+SmashBoardLibrary
+OLED_128x32_Nice_View
+
+
 0
 5
 5
