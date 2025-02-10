@@ -1,2 +1,3 @@
-./smashboard-mx-backups
-./smashboard-backups
+pcb/smashboard-mx-backups
+pcb/smashboard-backups
+pcb/production/*
