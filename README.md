@@ -4,6 +4,8 @@ Ortholineal bluetooth split keyboard.
 
 Just another split keyboard. Develop with KiKad7.0 and Fusion360.
 
+![](pcb.jpg)
+
 # Features
 - Powered by nice!nano microcontroller
 - Compatible with nice!view OLED screen
