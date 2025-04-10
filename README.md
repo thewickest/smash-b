@@ -1,10 +1,13 @@
 # Smashboard
-Ortholineal bluetooth split keyboard.
+Ortholinear bluetooth split keyboard.
 
+Just another split keyboard. Developed with KiKad7.0 and Fusion360.
 
-Just another split keyboard. Develop with KiKad7.0 and Fusion360.
+ZMK configuration in [Smashboard-config](https://github.com/thewickest/smashboard-config)
 
 ![](pcb.jpg)
+
+![](finished.jpg)
 
 # Features
 - Powered by nice!nano microcontroller
@@ -31,4 +34,4 @@ Parts needed. I will be linking the parts that I used. Feel free to use other pa
 
 # Roadmap
 - [ ] Hotswap for low profile switches
-- [ ] Shell case
+- [x] Shell case
